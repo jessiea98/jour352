@@ -1,0 +1,30 @@
+.center {
+  width: 350px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#event {
+  text-align: right;
+  font-family: sans-serif;
+}
+
+#top {
+  text-align: left;
+  text-transform: capitalize;
+  font-family: sans-serif;
+}
+
+.title {
+  color: #b71c1c;
+}
+
+.class {
+  font-family: sans-serif;
+  text-align: right;
+}
+
+#eventAlso {
+  text-align: right;
+}
