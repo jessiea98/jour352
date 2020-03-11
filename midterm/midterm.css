@@ -1,0 +1,45 @@
+
+h1 {
+  font-family: 'PT Serif', serif;
+  font-size: 40px;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'PT Serif', serif;
+  font-size: 30px;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+}
+
+img {
+  float: center;
+}
+/* Use this to insert a single column*/
+#wrapper {
+  width: auto;
+  margin: auto;
+  columns: center;
+  background-color: #F0F8FF;
+}
+#top {
+  font-weight: bold;
+}
+
+#second {
+  color: #808080;
+}
+.pquote {
+  font-weight: bold;
+  color: #FF0000;
+  padding: 10px;
+}
+
+blockquote {
+  font-style: italic;
+  font-family: cursive;
+  font-stretch: expanded;
+}
