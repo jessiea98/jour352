@@ -1,0 +1,44 @@
+body {
+  background-color: #FFF8DC;
+}
+
+h1 {
+  font-family: arial black;
+  text-align: center;
+}
+
+p {
+  font-family: arial;
+  line-height: 1.35;
+}
+
+a {
+  color: black;
+  text-align: center;
+  margin: auto;
+  display: block;
+}
+
+#larry {
+  width: 70%;
+  display: block;
+  margin: auto;
+}
+
+#unemployment {
+  width: 50%;
+  float: right;
+  margin: auto;
+}
+
+#map {
+  width: 50%;
+  display: block;
+  margin: auto;
+}
+
+#new {
+  width: 70%;
+  display: block;
+  margin: auto;
+}
